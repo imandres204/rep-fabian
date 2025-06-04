@@ -1,2 +1,5 @@
 # rep-fabian
-primer repositorio
+primer repositorio creado el github
+
+## descripcion
+repositorio de Fabián
